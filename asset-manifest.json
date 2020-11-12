@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/rjbc-portfolio/static/css/main.878a4704.chunk.css",
-    "main.js": "/rjbc-portfolio/static/js/main.3b16f7f7.chunk.js",
-    "main.js.map": "/rjbc-portfolio/static/js/main.3b16f7f7.chunk.js.map",
+    "main.css": "/rjbc-portfolio/static/css/main.f7691c03.chunk.css",
+    "main.js": "/rjbc-portfolio/static/js/main.07b4681f.chunk.js",
+    "main.js.map": "/rjbc-portfolio/static/js/main.07b4681f.chunk.js.map",
     "runtime-main.js": "/rjbc-portfolio/static/js/runtime-main.5b390d21.js",
     "runtime-main.js.map": "/rjbc-portfolio/static/js/runtime-main.5b390d21.js.map",
     "static/css/2.2aa38b9c.chunk.css": "/rjbc-portfolio/static/css/2.2aa38b9c.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.e2c00dfe.chunk.js.map": "/rjbc-portfolio/static/js/3.e2c00dfe.chunk.js.map",
     "index.html": "/rjbc-portfolio/index.html",
     "static/css/2.2aa38b9c.chunk.css.map": "/rjbc-portfolio/static/css/2.2aa38b9c.chunk.css.map",
-    "static/css/main.878a4704.chunk.css.map": "/rjbc-portfolio/static/css/main.878a4704.chunk.css.map",
+    "static/css/main.f7691c03.chunk.css.map": "/rjbc-portfolio/static/css/main.f7691c03.chunk.css.map",
     "static/js/2.afb4a80f.chunk.js.LICENSE.txt": "/rjbc-portfolio/static/js/2.afb4a80f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5b390d21.js",
     "static/css/2.2aa38b9c.chunk.css",
     "static/js/2.afb4a80f.chunk.js",
-    "static/css/main.878a4704.chunk.css",
-    "static/js/main.3b16f7f7.chunk.js"
+    "static/css/main.f7691c03.chunk.css",
+    "static/js/main.07b4681f.chunk.js"
   ]
 }
